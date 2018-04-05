@@ -30,13 +30,13 @@ npm install
 You can run the application by running ```npm start path_to_your_json_file```. To quickly start this application, you can run the following command with an example data.json included in this project.
 
 ```
-npm start ./data.json
+npm start data.json
 ```
 
 Or another (big) file in this project like
 
 ```
-npm start ./big.json
+npm start big.json
 ```
 
 You will then get an ```output.json``` file with the results that you can open and inspect.
